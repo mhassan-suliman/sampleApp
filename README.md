@@ -1,2 +1,3 @@
-# This is a sample App 
-sample App
+## this is a demo app 
+This sis a demo app
+
